@@ -1,0 +1,5 @@
+# Netlify settings for this static site.
+# There is no build step: Netlify publishes the files in this folder as they are,
+# and redeploys automatically on every push to the main branch.
+[build]
+  publish = "."
